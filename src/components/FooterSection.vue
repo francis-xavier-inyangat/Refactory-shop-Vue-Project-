@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="bg-dark fixed-bottom">
+    <div class="bg-dark">
       <div class="container">
         <footer class="footer bg-dark py-1 my-1">
           <ul class="nav justify-content-center pb-1 mb-1">

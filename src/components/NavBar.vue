@@ -10,27 +10,27 @@
         <li class="nav-item">
           <!--use the global router-link to create clickable links  -->
           <router-link to='/'>
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <a class="nav-link active" aria-current="page" >Home</a>
           </router-link>
         </li>
         <li class="nav-item">
           <router-link to='/programs'>
-            <a class="nav-link" href="#">Programs</a>
+            <a class="nav-link" >Programs</a>
           </router-link>
         </li>
         <li class="nav-item">
           <router-link to='/courses'>
-            <a class="nav-link" href="#">Courses</a>
+            <a class="nav-link" >Courses</a>
           </router-link>
         </li>
          <li class="nav-item">
           <router-link to='/alumni'>
-            <a class="nav-link" href="#">Alumni</a>
+            <a class="nav-link" >Alumni</a>
           </router-link>
         </li>
          <li class="nav-item">
           <router-link to='/staff'>
-            <a class="nav-link" href="#">Staff</a>
+            <a class="nav-link" >Staff</a>
           </router-link>
         </li>
        
